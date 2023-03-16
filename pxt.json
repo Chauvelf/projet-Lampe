@@ -1,5 +1,5 @@
 {
-    "name": "Projet 2",
+    "name": "affichage Led",
     "description": "",
     "dependencies": {
         "core": "*",
